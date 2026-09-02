@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+target/
+build/
+
+# Gradle
+.gradle/
+
+# Arquivos locais
+.env
