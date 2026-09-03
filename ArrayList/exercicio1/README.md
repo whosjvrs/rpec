@@ -1,6 +1,6 @@
 # Exercicio 1
 ## 1) Explique a diferença entre tamanho e capacidade em um ArrayList.
-## A principal diferença é que o tamanho(size) inidica o número de elementos atualmente armazenados no ArrayList, enquanto a capacidade (capacity) representa o endereço total alocado na memória para guardar esses elementos antes de precisar de um novo redimensionamento.
+## R: A principal diferença é que o tamanho(size) inidica o número de elementos atualmente armazenados no ArrayList, enquanto a capacidade (capacity) representa o endereço total alocado na memória para guardar esses elementos antes de precisar de um novo redimensionamento.
 
 ```java
 import java.util.ArrayList;
