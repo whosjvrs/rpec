@@ -4,7 +4,7 @@
 2) Ao remover um elemento de um ArrayList por índice, o que acontece com os elementos seguintes na lista? Qual a complexidade dessa operação?
 3) Explique a diferença entre remove(int index) e remove(Object O) no ArrayList. Dê um exemplo em que o uso de números pode confundir o programador.
 4) Considere o seguinte código:  
-ArrayList lista = new ArrayList<>();  
+ArrayList lista = new ArrayList<>();
 lista.add(2);  
 lista.add(4);  
 lista.add(6);  
