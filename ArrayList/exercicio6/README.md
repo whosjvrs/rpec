@@ -1,0 +1,3 @@
+# Exercício 6
+## 6) Escreva um código que insira 12 elementos consecutivos (0 até 11) em um ArrayList criado sem parâmetro de capacidade inicial. Qual a capacidade inicial? Para qual capacidade o ArrayList crescerá ao ultrapassar os 10 elementos? 
+### R: A capacidade inicial considerada é de 10 posições, como foram inseridos mais elementos do que a capacidade inicial, ao inserir o elemento "10" a capacidade é aumentada em aproximadamente 50%, que seria 15 posições. Ao final o tamanho será 12 e a capacidade interna será 15.
