@@ -1,0 +1,3 @@
+# Exercicio 8
+## Quais as principais vantagens e desvantagens de usar LinkedList? 
+### R: A principal vantagem da LinkedList é permitir inserções e remoções eficientes nas extremidades, sem precisar deslocar elementos ou redimensior um array. Suas principais desvantagens são o acesso lento por índice e o maior consumo de memória, pois cada nó precisaa armazenar referências para outros nós. Portanto, ela é adequada quando existem muitas operções no início ou no fim da lista, mas não é indicada quando o acesso por posição acontece frequentemente. 
